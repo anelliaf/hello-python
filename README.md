@@ -1,2 +1,2 @@
-# hello-python
-Repository for Python Scripts
+# linux_email_mounts
+Script to send an email of Linux mount sizes
